@@ -5,7 +5,7 @@ A static page for a search result on the Sprint website for iPhones.
 ## Screen Shot
 ![Landing Page](images/screenshot.png)
 
-##Build With
+## Build With
 - HTML5
 - CSS3
 - JavaScript
